@@ -40,10 +40,13 @@ Python	Linguagem principal
 Streamlit	Interface web e dashboard
 Pandas	Tratamento e análise dos dados
 Plotly Express	Gráficos interativos
+
 📂 Estrutura do Projeto
-├── app.py              # Código principal do dashboard
-├── requirements.txt    # Dependências do projeto
-└── .venv               # Ambiente virtual (não versionar)
+app.py — Aplicação principal do dashboard Streamlit
+
+requirements.txt — Lista de dependências do projeto
+
+.venv/ — Ambiente virtual (não deve ser versionado)
 
 🚀 Como Executar o Projeto
 1️⃣ Clonar o repositório
